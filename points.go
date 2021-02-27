@@ -1,4 +1,4 @@
-package points
+package klugen
 
 import (
 	"image"
