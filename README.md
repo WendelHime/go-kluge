@@ -1,6 +1,6 @@
 # go-kluge
 
-This repository is an adaptation from [christiankastner/klugen-portrait](https://github.com/christiankastner/klugen-portrait), which is a implementation of [Espen Kluge Alternatives](https://www.espen.xyz/alternatives-new-portrait-series-2019)
+This repository is an adaptation from [christiankastner/klugen-portrait](https://github.com/christiankastner/klugen-portrait), which is a implementation of [Espen Kluge Alternatives](https://www.espen.xyz/alternatives-new-portrait-series-2019). Basically the algorithm generate random points on image and connect them with lines with a minimum distance (provided by user, in pixels).
 
 # Installing
 
