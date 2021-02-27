@@ -1,4 +1,4 @@
-module github.com/WendelHime/klugen-go
+module github.com/WendelHime/go-klugen
 
 go 1.15
 
