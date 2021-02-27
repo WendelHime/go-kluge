@@ -1,4 +1,4 @@
-package klugen
+package kluge
 
 import (
 	"image"

@@ -8,7 +8,7 @@ import (
 	"os"
 	"time"
 
-	"github.com/WendelHime/go-klugen"
+	"github.com/WendelHime/go-kluge"
 	"github.com/fogleman/gg"
 )
 
@@ -32,10 +32,10 @@ func main() {
 	}
 
 	// get random points
-	points := klugen.GeneratePoints(img, *threshold)
+	points := kluge.GeneratePoints(img, *threshold)
 
 	// draw lines between points
-	ctx := klugen.BuildLines(img.Bounds().Max.X, img.Bounds().Max.Y, points, *minDist)
+	ctx := kluge.BuildLines(img.Bounds().Max.X, img.Bounds().Max.Y, points, *minDist)
 
 	// save image
 	err = ctx.SavePNG(*output)
