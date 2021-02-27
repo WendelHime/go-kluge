@@ -8,7 +8,7 @@ import (
 	"os"
 	"time"
 
-	"github.com/WendelHime/klugen-go"
+	"github.com/WendelHime/go-klugen"
 	"github.com/fogleman/gg"
 )
 
