@@ -34,4 +34,5 @@ kluge -filepath images/ada_in_blank.png -threshold 0.35 -minDist 50 -output imag
 | original image | output |
 | :-- | :-- |
 | <img src="https://github.com/WendelHime/go-kluge/raw/main/images/ada_in_blank.png" width="320" height="400"> | <img src="https://github.com/WendelHime/go-kluge/raw/main/images/ada_output.png" width="320" height="400"> |
+| <img src="https://github.com/WendelHime/go-kluge/raw/main/images/tom_in_blank.png" width="316" height="400"> | <img src="https://github.com/WendelHime/go-kluge/raw/main/images/tom_output.png" width="316" height="400"> |
 
